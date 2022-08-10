@@ -1,6 +1,6 @@
 # Taş Kağıt Makas Oyunu / Rock Scissors Paper Game
 
-![roc-scissors-paper]()
+![rock-scissors-paper](https://github.com/ipekcdk/tas_kagit_makas/blob/main/images/rock-scisscors-paper.png)
 
 </br>
 
